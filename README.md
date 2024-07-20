@@ -2,7 +2,7 @@
 - 👀 I am interested in coding and creating real-life projects.
 - 🌱 I’m currently majoring in Computer Science with minor in Data Science.
 - 💞️ Interested in collaborating on unique creative projects. Contact me!
-- 📫 How to reach me: My email address is anshikaraiii58@gmail.com.
+- 📫 How to reach me: My email address is anshikaraiii58@gmail 
 
 <!---
 anshikaraii/anshikaraii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
