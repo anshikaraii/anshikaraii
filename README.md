@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshikaraii
 - 👀 I am interested in coding and creating real-life projects.
-- 🌱 I’m currently majoring in computer science.
+- 🌱 I’m currently majoring in Computer Science with minor in Data Science.
 - 💞️ Interested in collaborating on unique creative projects. Contact me!
 - 📫 How to reach me: My email address is raia82947@gmail.com.
 
